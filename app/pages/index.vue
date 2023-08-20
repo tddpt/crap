@@ -10,7 +10,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://res.cloudinary.com/squashbox/image/upload/v1692546037/PXL_20220713_191752668_3_aw0m3v.jpg"
         />
       </div>
     </div>
